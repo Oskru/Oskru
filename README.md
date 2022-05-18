@@ -1,5 +1,5 @@
 <h1>Hi, I'm Oskar 👋</h1>
-<h3 align="center">Future Web Developer from Poland</h3>
+<h3 align="center">Non-commerce Web Developer from Poland</h3>
 
 - 🔭 I’m currently working on <b>[Django Checklist WebApp]</b>
 - 🌱 I’m currently learning Django, PostgreSQL
