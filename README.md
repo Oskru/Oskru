@@ -1,39 +1,16 @@
 ### Hi, I'm Oskar 👋
 
-<!--
-**Oskru/Oskru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently working on [Django Checklist WebApp]
 - 🌱 I’m currently learning Django, PostgreSQL
 
 
 ### My Languages and Tools:
-
-<p align="left">
-![visualstudio_code-icon](https://user-images.githubusercontent.com/78699146/169049866-24784140-ec17-46b7-9c17-2682b1157bcc.svg)[1]
-![python-icon](https://user-images.githubusercontent.com/78699146/169049811-a12e26a2-55e4-4773-9ce5-22df7d17e1f7.svg)[2]
-![djangoproject-icon](https://user-images.githubusercontent.com/78699146/169049844-f5e768a2-f955-4c9e-9941-357ceaeb2842.svg)[3]
-![postgresql-icon](https://user-images.githubusercontent.com/78699146/169049881-1c1e939d-004d-418e-8774-a1b8002e6dea.svg)[4]
-![w3_html5-icon](https://user-images.githubusercontent.com/78699146/169049940-df4697e0-ca6b-42a1-83a5-86f9537c4744.svg)[5]
-![git-scm-icon](https://user-images.githubusercontent.com/78699146/169049916-26d598ff-a75c-4f26-b28f-04577275d059.svg)[6]
+<p align="left"> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169056808-a8d5b2af-5ace-4a35-ad05-e4f204ace0aa.svg" alt="Linux" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049866-24784140-ec17-46b7-9c17-2682b1157bcc.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049811-a12e26a2-55e4-4773-9ce5-22df7d17e1f7.svg" alt="Python" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049844-f5e768a2-f955-4c9e-9941-357ceaeb2842.svg" alt="Django" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049881-1c1e939d-004d-418e-8774-a1b8002e6dea.svg" alt="PostgreSQL" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049940-df4697e0-ca6b-42a1-83a5-86f9537c4744.svg" alt="HTML5" width="40" height="40"/>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/169049916-26d598ff-a75c-4f26-b28f-04577275d059.svg" alt="Git" width="40" height="40"/> </a>
 </p>
-
-
-<!-- [<img align="left" alt="Visual Studio Code" width="40px" src="https://user-images.githubusercontent.com/78699146/169049866-24784140-ec17-46b7-9c17-2682b1157bcc.svg"]/>][VSC]
-[<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/78699146/169049811-a12e26a2-55e4-4773-9ce5-22df7d17e1f7.svg"]/>][Python]
-[<img align="left" alt="Django" width="40px" src="https://user-images.githubusercontent.com/78699146/169049844-f5e768a2-f955-4c9e-9941-357ceaeb2842.svg"]/>][Django]
-[<img align="left" alt="PosgreSQL" width="40px" src="https://user-images.githubusercontent.com/78699146/169049881-1c1e939d-004d-418e-8774-a1b8002e6dea.svg"]/>][PostgreSQL]
-[<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/78699146/169049866-24784140-ec17-46b7-9c17-2682b1157bcc.svg"]/>][HTML5]
-[<img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/78699146/169049940-df4697e0-ca6b-42a1-83a5-86f9537c4744.svg"]/>][Git] -->
-
-
-
-
-
-[1]: https://code.visualstudio.com/
-[2]: https://www.python.org/
-[3]: https://www.djangoproject.com/
-[4]: https://www.postgresql.org/
-[5]: https://www.w3.org/html/
-[6]: https://git-scm.com/
