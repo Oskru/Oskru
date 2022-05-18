@@ -1,10 +1,9 @@
 <h1>Hi, I'm Oskar 👋</h1>
 <h3 align="center">Future Web Developer from Poland</h3>
 
----
-
-- 🔭 I’m currently working on [Django Checklist WebApp]
+- 🔭 I’m currently working on <b>[Django Checklist WebApp]</b>
 - 🌱 I’m currently learning Django, PostgreSQL
+- U+1F601 I enjoy developing software, especially WWW related
 
 ### Contact with me:
 <a href="https://www.linkedin.com/in/oskar-krupa-a79314205/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78699146/169061619-2c12e6d9-e667-4668-a136-6718719f8cfb.svg" alt="oskar-krupa-a79314205" height="40" width="40" /></a>
