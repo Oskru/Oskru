@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskru&label=Profile%20views&color=0e75b6&style=flat" alt="oskru" /> </p>
 
-- 🔭 I’m currently working on <b>[Django Checklist WebApp]</b>
-- 🌱 I’m currently learning Django, PostgreSQL
+- 🔭 I’m currently working on <b>[Django Checklist WebApp]</b> and <b>Personal portfolio site</b>
+- 🌱 I’m currently learning Django, PostgreSQL, Frontend technologies (HTML, CSS, JavaScript)
 - 😁 I enjoy developing software, especially WWW related
 
 ### Contact with me:
