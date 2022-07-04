@@ -18,7 +18,6 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049866-24784140-ec17-46b7-9c17-2682b1157bcc.svg" alt="Visual Studio Code" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049811-a12e26a2-55e4-4773-9ce5-22df7d17e1f7.svg" alt="Python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049844-f5e768a2-f955-4c9e-9941-357ceaeb2842.svg" alt="Django" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049881-1c1e939d-004d-418e-8774-a1b8002e6dea.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049940-df4697e0-ca6b-42a1-83a5-86f9537c4744.svg" alt="HTML5" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/169049916-26d598ff-a75c-4f26-b28f-04577275d059.svg" alt="Git" width="40" height="40"/> </a>
 </p>
