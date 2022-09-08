@@ -20,7 +20,9 @@
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049844-f5e768a2-f955-4c9e-9941-357ceaeb2842.svg" alt="Django" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://user-images.githubusercontent.com/78699146/169049940-df4697e0-ca6b-42a1-83a5-86f9537c4744.svg" alt="HTML5" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/169049916-26d598ff-a75c-4f26-b28f-04577275d059.svg" alt="Git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/189131375-535de58b-d661-4643-a2f2-e25a47ea721f.png" alt="Git" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/189131375-535de58b-d661-4643-a2f2-e25a47ea721f.png" alt="SASS" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/189131750-b451af82-9534-4fcf-af2b-c56079fe8622.png" alt="CSS3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://user-images.githubusercontent.com/78699146/189132103-9d4fb211-51ba-4b60-a8c4-75a8c10f7efd.png" alt="JavaScript" width="40" height="40"/> </a>
 </p>
 
 ---
