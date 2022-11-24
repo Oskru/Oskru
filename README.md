@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on <b>[Blood Count Analyzer Webapp]</b>
 - 🌱 I’m currently learning frontend and backend technologies (HTML, CSS, JavaScript, React, Nodejs, Expressjs)
 - 😁 I enjoy developing software, especially WWW related
-- 💼 Looking for internship or junior frontend
+- 💼 Looking for internship or junior frontend/fullstack job
 
 ### Contact with me:
 <a href="https://www.linkedin.com/in/oskar-krupa-a79314205/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78699146/169061619-2c12e6d9-e667-4668-a136-6718719f8cfb.svg" alt="oskar-krupa-a79314205" height="40" width="40" /></a>
