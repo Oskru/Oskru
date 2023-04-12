@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oskru&label=Profile%20views&color=0e75b6&style=flat" alt="oskru" /> </p>
 
 - 🔭 I’m currently working on <b>[Blood Count Analyzer Webapp]</b>
-- 🌱 I’m currently learning frontend and backend technologies (HTML, CSS, JavaScript, React, Nodejs, Expressjs)
+- 🌱 I’m currently learning frontend and backend technologies (HTML, CSS/SCSS, JavaScript, React, Nodejs, Expressjs)
 - 😁 I enjoy developing software, especially WWW related
 - 💼 Looking for internship or junior frontend/fullstack job
 
